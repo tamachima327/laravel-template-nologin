@@ -34,11 +34,11 @@
 -   2 つのリポジトリをクローンしてファイル移動する
 
 ```
-git clone git@github.com:tamachima327/laravel-template.git
+git clone git@github.com:tamachima327/laravel-template-nologin.git
 ```
 
 ```
-yes | rm -r laravel-template/.git
+yes | rm -r laravel-template-nologin/.git
 ```
 
 ```
@@ -46,11 +46,11 @@ git clone 上で作成したリモートリポジトリのSSHアドレス(Code�
 ```
 
 ```
-mv laravel-template/* laravel-template/.[^\.]* 上で作成したリモートリポジトリ名
+mv laravel-template-nologin/* laravel-template-nologin/.[^\.]* 上で作成したリモートリポジトリ名
 ```
 
 ```
-rm -r laravel-template
+rm -r laravel-template-nologin
 ```
 
 ```
