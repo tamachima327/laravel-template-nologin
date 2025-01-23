@@ -1,4 +1,4 @@
-# アプリケーション名
+# アプリケーション名(ログイン機能なし)
 
 ## 準備手順の前に確認すること(この手順はアプリ完成時には README から削除する)
 
@@ -18,7 +18,7 @@
 
 -   このリポジトリは amd 版です(Windows/IntelCPU の Mac 向け)  
     arm 版はこちら  
-    https://github.com/tamachima327/laravel-template-arm
+    https://github.com/tamachima327/laravel-template-nologin-arm
 
 ## Git リポジトリの準備手順(この手順はアプリ完成時には README から削除する)
 
