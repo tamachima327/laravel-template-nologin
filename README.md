@@ -2,7 +2,7 @@
 
 -   このリポジトリは amd 版です(Windows/IntelCPU の Mac 向け)
 
-## Git リポジトリの準備手順(この手順はアプリ完成時には README から削除する)
+## 準備手順(この手順はアプリ完成時には README から削除する)
 
 -   Docker Desktop で全コンテナを停止させる
 
